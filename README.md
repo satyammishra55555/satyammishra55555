@@ -60,8 +60,52 @@ Java • Spring Boot • Spring MVC • Spring Security • Hibernate • JPA �
 </p>
 
 ---
-
 # 🚀 Featured Projects
+
+## 🏛️ Civic Bridge
+
+**Enterprise Citizen Service Management Platform**
+
+**Tech Stack:** Java 17, Spring Boot, Spring Security, Microservices, REST APIs, Hibernate, JPA, MySQL, Kafka, Docker, Kubernetes, AWS, Maven, Git
+
+Civic Bridge is a microservices-based enterprise platform designed to streamline citizen service requests and administrative workflows. The application focuses on secure, scalable, and high-performance backend services with role-based access control and event-driven communication.
+
+### ✨ Key Responsibilities
+
+- Designed and developed scalable RESTful APIs using Java 17 and Spring Boot.
+- Implemented Microservices architecture for independent and maintainable services.
+- Developed secure authentication and authorization using Spring Security and JWT.
+- Created modules for citizen request management, application processing, and correspondence.
+- Integrated Apache Kafka for asynchronous messaging and event-driven communication.
+- Used Hibernate and JPA for efficient database access and query optimization.
+- Improved API performance by optimizing SQL queries and implementing pagination.
+- Containerized services using Docker and deployed applications on AWS.
+- Collaborated with frontend developers for API integration.
+- Participated in Agile ceremonies including Sprint Planning, Daily Stand-ups, Code Reviews, and Production Support.
+
+### 🛠️ Technologies Used
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,docker,kubernetes,aws,git,github" />
+</p>
+
+`Java 17` • `Spring Boot` • `Spring Security` • `Microservices` • `REST API` • `Hibernate` • `JPA` • `MySQL` • `Kafka` • `Docker` • `Kubernetes` • `AWS` • `Git` • `Maven`
+
+---
+
+## 📌 Key Features
+
+- 🔐 JWT Authentication & Role-Based Authorization
+- 🚀 Microservices Architecture
+- 📡 RESTful API Development
+- ⚡ Kafka Event-Driven Communication
+- 🗄️ MySQL Database Integration
+- 📦 Docker Containerization
+- ☁️ AWS Deployment
+- 📈 Performance Optimization
+- 🛡️ Exception Handling & Validation
+- 🔄 CI/CD Friendly Architecture
+- 👥 Agile Development Process
 
 ## 🏨 Hotel Management System
 
