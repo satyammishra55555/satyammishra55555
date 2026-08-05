@@ -108,6 +108,14 @@ Civic Bridge is a microservices-based enterprise platform designed to streamline
 
 
 ---
+
+## 🌌 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/satyammishra55555/satyammishra55555/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
 ## 🐍 Contribution Snake
 
 <picture>
