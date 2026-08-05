@@ -8,8 +8,6 @@
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=satyammishra55555&label=Profile+Views&color=0e75b6&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/satyammishra55555?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/satyammishra55555?affiliations=OWNER&style=flat-square"/>
 </p>
 
 </div>
