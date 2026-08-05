@@ -31,6 +31,13 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,ts,html,css"/>
+  <img src="https://skillicons.dev/icons?i=spring,maven"/>
+  <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github"/>
+
+
+
 </p>
 
 ### Backend
