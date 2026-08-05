@@ -27,7 +27,6 @@
 
 # 🛠 Tech Stack
 
-### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,ts,html,css"/>
@@ -38,32 +37,6 @@
 
 
 
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
-</p>
-
-Java • Spring Boot • Spring MVC • Spring Security • Hibernate • JPA • JDBC • REST APIs • Microservices • Kafka
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,html,css,js,ts"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github"/>
 </p>
 
 ---
