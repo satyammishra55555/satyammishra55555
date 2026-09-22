@@ -16,7 +16,7 @@
 
 # 👨‍💻 About Me
 
-- 💼 Java Full Stack Developer with around **4 years of experience**
+- 💼 Java Full Stack Developer
 - 🚀 Experienced in developing scalable enterprise applications using **Java, Spring Boot, Microservices, Angular, and MySQL**
 - 🔐 Strong knowledge of **Spring Security, JWT Authentication, REST APIs, Hibernate, and JPA**
 - ☁️ Hands-on experience with **AWS, Docker, Kubernetes, Kafka, Jenkins, and Git**
